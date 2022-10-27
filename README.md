@@ -1,1 +1,1 @@
-# shiwa-contract
+# Shiwa Contract deployed in ETHW/ETH
